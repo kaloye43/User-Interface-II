@@ -1,1 +1,37 @@
-/* Add CSS styling here */
+        img {
+        width: 100%;
+    }
+    
+    .cta {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .cta article {
+        width: 45%;
+    }
+    
+    body,
+    html {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .prosec {
+        display: flex;
+        flex-wrap: wrap
+    }
+    
+    .prosec article {
+        width: 25%;
+    }
+    
+    .fota {
+        display: flex;
+        height: 20%;
+        align-items: center;
+    }
+    
+    .fota article {
+        align-items: center;
